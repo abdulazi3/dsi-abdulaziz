@@ -88,8 +88,12 @@
 }
 
 @media (max-width: 451px) {
-    .hero-title h1{
-        font-size: 22px!important;
+    .hero-title h1 span {
+        font-size: 18px!important;
+        margin-right: 50px!important;
+    }.hero-title h1  {
+        font-size: 18px!important;
+        margin:  -10px -115px!important;
     }
     .container{
         width: 90%;
